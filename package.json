@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/three": "^0.93.19",
-    "three": "^0.100.0"
+    "three": "^0.119.1"
   },
   "devDependencies": {
     "browserify": "^16.2.3"
